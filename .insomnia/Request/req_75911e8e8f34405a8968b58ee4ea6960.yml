@@ -1,0 +1,39 @@
+_id: req_75911e8e8f34405a8968b58ee4ea6960
+type: Request
+parentId: wrk_6fad548d45da471d87d75f5b73baf39c
+modified: 1659103867375
+created: 1659023154309
+url: "{{baseUrl}}/plugins"
+name: Setup Plugin
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"name": "acme",
+    	"config": {
+    		"account_email": "christopher@nanonino.com",
+    		"domains": ["*.gettonto.com"],
+    		"tos_accepted": true
+    	}
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_9ad403ab2001445ca138046f0f18a54a
+authentication:
+  type: basic
+  useISO88591: false
+  disabled: false
+  username: ""
+  password: ""
+metaSortKey: -1656598831939
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,29 @@
+_id: req_cedce181c4a64d259422ad71145acea2
+type: Request
+parentId: wrk_6fad548d45da471d87d75f5b73baf39c
+modified: 1656754211396
+created: 1656687454523
+url: http://127.0.0.1:8001/services/cats
+name: Update Service
+description: ""
+method: PATCH
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"path": "/facts"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_d71641c65ce64fbdbdbded49c319e2a1
+authentication: {}
+metaSortKey: -1656683153004.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

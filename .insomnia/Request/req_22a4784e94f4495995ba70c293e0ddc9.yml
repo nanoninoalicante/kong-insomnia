@@ -1,0 +1,30 @@
+_id: req_22a4784e94f4495995ba70c293e0ddc9
+type: Request
+parentId: wrk_6fad548d45da471d87d75f5b73baf39c
+modified: 1659104205956
+created: 1656686705046
+url: "{{baseUrl}}/services"
+name: Create Service
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"name": "staracademy-authapi",
+    	"url": "https://devauth.staracademyapp.com/"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_d71641c65ce64fbdbdbded49c319e2a1
+authentication: {}
+metaSortKey: -1656686705046
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

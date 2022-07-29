@@ -1,0 +1,21 @@
+_id: req_4270bc8dc393413f82299c83ac5f5997
+type: Request
+parentId: wrk_6fad548d45da471d87d75f5b73baf39c
+modified: 1659103851552
+created: 1656687814300
+url: "{{ _.baseUrl }}/services/home"
+name: Delete Service
+description: ""
+method: DELETE
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1656598832014
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

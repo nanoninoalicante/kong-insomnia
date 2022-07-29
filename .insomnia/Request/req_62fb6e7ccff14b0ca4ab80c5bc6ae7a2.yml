@@ -1,0 +1,21 @@
+_id: req_62fb6e7ccff14b0ca4ab80c5bc6ae7a2
+type: Request
+parentId: wrk_6fad548d45da471d87d75f5b73baf39c
+modified: 1659024080655
+created: 1659023993524
+url: "{{baseUrl}}:8001/acme/certificates"
+name: New Request
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1659023993524
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

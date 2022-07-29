@@ -1,0 +1,21 @@
+_id: req_b8c022b012da4ef9b6b9f557dcb3e590
+type: Request
+parentId: wrk_6fad548d45da471d87d75f5b73baf39c
+modified: 1659083701060
+created: 1656687841605
+url: "{{ _.baseUrl }}/services/home/routes/home"
+name: Delete Route
+description: ""
+method: DELETE
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1656686705071
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

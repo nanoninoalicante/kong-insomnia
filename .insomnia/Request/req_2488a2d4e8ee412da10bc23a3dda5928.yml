@@ -1,0 +1,31 @@
+_id: req_2488a2d4e8ee412da10bc23a3dda5928
+type: Request
+parentId: wrk_6fad548d45da471d87d75f5b73baf39c
+modified: 1659103874540
+created: 1659023481814
+url: "{{baseUrl}}/plugins"
+name: Get Plugins
+description: ""
+method: GET
+body:
+  mimeType: application/json
+  text: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_9ad403ab2001445ca138046f0f18a54a
+authentication:
+  type: basic
+  useISO88591: false
+  disabled: false
+  username: ""
+  password: ""
+metaSortKey: -1656598831889
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

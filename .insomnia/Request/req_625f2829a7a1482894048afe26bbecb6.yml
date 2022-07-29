@@ -1,0 +1,26 @@
+_id: req_625f2829a7a1482894048afe26bbecb6
+type: Request
+parentId: wrk_6fad548d45da471d87d75f5b73baf39c
+modified: 1659103857755
+created: 1656687719334
+url: "{{baseUrl}}"
+name: Get Service Details
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication:
+  type: basic
+  useISO88591: false
+  disabled: false
+  username: ""
+  password: ""
+metaSortKey: -1656598831989
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

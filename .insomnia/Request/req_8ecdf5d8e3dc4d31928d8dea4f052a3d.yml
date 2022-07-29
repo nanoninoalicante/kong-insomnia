@@ -1,0 +1,21 @@
+_id: req_8ecdf5d8e3dc4d31928d8dea4f052a3d
+type: Request
+parentId: wrk_6fad548d45da471d87d75f5b73baf39c
+modified: 1659083578069
+created: 1659080772556
+url: "{{baseUrl}}/routes"
+name: Get Routes
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1656598832026.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

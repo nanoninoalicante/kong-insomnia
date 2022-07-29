@@ -1,0 +1,14 @@
+_id: env_7398ad8ae8df4956b9053a21a940755f
+type: Environment
+parentId: env_9c14617965d91fca350ea396ae4673d24e4daead
+modified: 1659110032436
+created: 1659103926368
+name: Star Academy
+data:
+  baseUrl: http://34.139.89.180:8001
+dataPropertyOrder:
+  "&":
+    - baseUrl
+color: null
+isPrivate: false
+metaSortKey: 1659103926368

@@ -1,0 +1,14 @@
+_id: env_9c14617965d91fca350ea396ae4673d24e4daead
+type: Environment
+parentId: wrk_6fad548d45da471d87d75f5b73baf39c
+modified: 1659103924032
+created: 1656598832031
+name: Base Environment
+data:
+  baseUrl: https://admin.kong-demo.gettonto.com
+dataPropertyOrder:
+  "&":
+    - baseUrl
+color: null
+isPrivate: false
+metaSortKey: 1656598832031

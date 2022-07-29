@@ -1,0 +1,21 @@
+_id: req_d69c1788bf7c4f9c9fc155a7c8f31c57
+type: Request
+parentId: wrk_6fad548d45da471d87d75f5b73baf39c
+modified: 1659081297742
+created: 1659025704329
+url: https://kong-demo.gettonto.com/nanonino
+name: New Request
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1659025704329
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,30 @@
+_id: req_1983b5c8d679423f8193fe0e08575bdc
+type: Request
+parentId: wrk_6fad548d45da471d87d75f5b73baf39c
+modified: 1659104231359
+created: 1656686800849
+url: "{{baseUrl}}/services/staracademy-authapi/routes"
+name: Add Route
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"paths": ["/auth-api"],
+    	"name": "staracademy-authapi"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_d71641c65ce64fbdbdbded49c319e2a1
+authentication: {}
+metaSortKey: -1656686705096
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

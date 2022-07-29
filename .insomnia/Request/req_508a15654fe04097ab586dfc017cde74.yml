@@ -1,0 +1,29 @@
+_id: req_508a15654fe04097ab586dfc017cde74
+type: Request
+parentId: wrk_6fad548d45da471d87d75f5b73baf39c
+modified: 1659028883284
+created: 1659023840825
+url: "{{baseUrl}}:8001/acme"
+name: New Request
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"host": "*.gettonto.com"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_64565e8f6dd54ba68489fe556c0edb27
+authentication: {}
+metaSortKey: -1659023840825
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

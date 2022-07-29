@@ -1,0 +1,14 @@
+_id: env_b0fcc5d624884d75851ea78701defd88
+type: Environment
+parentId: env_9c14617965d91fca350ea396ae4673d24e4daead
+modified: 1659110060344
+created: 1659110036503
+name: Tonto Demo Proxy
+data:
+  baseUrl: 34.91.110.217:8001
+dataPropertyOrder:
+  "&":
+    - baseUrl
+color: null
+isPrivate: false
+metaSortKey: 1659110036503
